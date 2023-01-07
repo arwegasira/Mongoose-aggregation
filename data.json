@@ -1,0 +1,701 @@
+[{
+    "graphic": "17-193-3875",
+    "customer": "Pillsbury",
+    "owner": "Melinda Lacke",
+    "status": "WIP",
+    "createdAt": "2022-05-19T09:14:01Z",
+    "revenue": 26831
+  }, {
+    "graphic": "27-644-8150",
+    "customer": "Pringles",
+    "owner": "Erik Haapakoski",
+    "status": "New",
+    "createdAt": "2022-04-11T14:40:13Z",
+    "revenue": 23540
+  }, {
+    "graphic": "65-496-1186",
+    "customer": "Perdue",
+    "owner": "Alek Olson",
+    "status": "Completed",
+    "createdAt": "2022-05-30T10:41:07Z",
+    "revenue": 35153
+  }, {
+    "graphic": "09-210-0544",
+    "customer": "Hershey",
+    "owner": "Jenny Haas",
+    "status": "WIP",
+    "createdAt": "2022-06-27T13:01:27Z",
+    "revenue": 29827
+  }, {
+    "graphic": "96-479-9555",
+    "customer": "Hershey",
+    "owner": "Alek Olson",
+    "status": "WIP",
+    "createdAt": "2022-02-15T19:56:18Z",
+    "revenue": 43243
+  }, {
+    "graphic": "08-329-4044",
+    "customer": "Pillsbury",
+    "owner": "Aaron Johnson",
+    "status": "WIP",
+    "createdAt": "2022-11-06T13:18:45Z",
+    "revenue": 28236
+  }, {
+    "graphic": "17-940-8212",
+    "customer": "Perdue",
+    "owner": "Tim Rivers",
+    "status": "WIP",
+    "createdAt": "2022-07-10T09:15:51Z",
+    "revenue": 42561
+  }, {
+    "graphic": "83-595-1585",
+    "customer": "Perdue",
+    "owner": "Alek Olson",
+    "status": "Completed",
+    "createdAt": "2022-05-26T04:32:35Z",
+    "revenue": 36571
+  }, {
+    "graphic": "08-487-8292",
+    "customer": "Kind Snacks",
+    "owner": "Erik Haapakoski",
+    "status": "New",
+    "createdAt": "2022-05-17T19:14:12Z",
+    "revenue": 36401
+  }, {
+    "graphic": "90-270-3505",
+    "customer": "Colgate",
+    "owner": "Aaron Johnson",
+    "status": "Completed",
+    "createdAt": "2022-06-03T18:42:28Z",
+    "revenue": 23162
+  }, {
+    "graphic": "07-091-8934",
+    "customer": "Scholle IPN",
+    "owner": "Alek Olson",
+    "status": "WIP",
+    "createdAt": "2022-09-28T20:22:26Z",
+    "revenue": 23603
+  }, {
+    "graphic": "51-937-6840",
+    "customer": "Pillsbury",
+    "owner": "Tim Rivers",
+    "status": "New",
+    "createdAt": "2022-07-02T22:36:01Z",
+    "revenue": 44285
+  }, {
+    "graphic": "57-148-5392",
+    "customer": "Pringles",
+    "owner": "Sam Rabideau",
+    "status": "New",
+    "createdAt": "2022-07-07T23:39:30Z",
+    "revenue": 34000
+  }, {
+    "graphic": "25-445-1974",
+    "customer": "Pillsbury",
+    "owner": "Sam Rabideau",
+    "status": "WIP",
+    "createdAt": "2022-12-29T16:52:13Z",
+    "revenue": 30665
+  }, {
+    "graphic": "95-037-2992",
+    "customer": "Hershey",
+    "owner": "Jenny Haas",
+    "status": "WIP",
+    "createdAt": "2022-05-31T03:27:12Z",
+    "revenue": 27051
+  }, {
+    "graphic": "87-663-4232",
+    "customer": "Hershey",
+    "owner": "Aaron Johnson",
+    "status": "New",
+    "createdAt": "2022-05-08T10:26:08Z",
+    "revenue": 48681
+  }, {
+    "graphic": "71-423-5240",
+    "customer": "Perdue",
+    "owner": "Aaron Johnson",
+    "status": "New",
+    "createdAt": "2022-04-18T17:13:20Z",
+    "revenue": 37049
+  }, {
+    "graphic": "36-089-3375",
+    "customer": "Hershey",
+    "owner": "Tim Rivers",
+    "status": "WIP",
+    "createdAt": "2022-07-17T01:07:21Z",
+    "revenue": 21357
+  }, {
+    "graphic": "28-215-4494",
+    "customer": "Planters",
+    "owner": "Jenny Haas",
+    "status": "Completed",
+    "createdAt": "2022-07-11T19:00:57Z",
+    "revenue": 37063
+  }, {
+    "graphic": "82-858-4647",
+    "customer": "Perdue",
+    "owner": "Melinda Lacke",
+    "status": "New",
+    "createdAt": "2022-12-06T15:39:59Z",
+    "revenue": 48385
+  }, {
+    "graphic": "17-870-7892",
+    "customer": "Nestle Coffee",
+    "owner": "Tim Rivers",
+    "status": "WIP",
+    "createdAt": "2022-04-13T15:00:23Z",
+    "revenue": 40771
+  }, {
+    "graphic": "57-276-0946",
+    "customer": "Nestle Coffee",
+    "owner": "Tim Rivers",
+    "status": "Completed",
+    "createdAt": "2022-09-05T21:41:41Z",
+    "revenue": 27340
+  }, {
+    "graphic": "31-582-2697",
+    "customer": "Colgate",
+    "owner": "Tim Rivers",
+    "status": "WIP",
+    "createdAt": "2022-08-21T07:19:14Z",
+    "revenue": 22413
+  }, {
+    "graphic": "26-296-6394",
+    "customer": "Nestle Coffee",
+    "owner": "Aaron Johnson",
+    "status": "Completed",
+    "createdAt": "2022-10-04T22:26:31Z",
+    "revenue": 20047
+  }, {
+    "graphic": "42-995-6126",
+    "customer": "Kind Snacks",
+    "owner": "Sam Rabideau",
+    "status": "New",
+    "createdAt": "2022-12-15T15:28:16Z",
+    "revenue": 31271
+  }, {
+    "graphic": "18-662-8652",
+    "customer": "Hershey",
+    "owner": "Alek Olson",
+    "status": "Completed",
+    "createdAt": "2022-05-02T11:07:52Z",
+    "revenue": 27555
+  }, {
+    "graphic": "74-624-7256",
+    "customer": "Planters",
+    "owner": "Melinda Lacke",
+    "status": "Completed",
+    "createdAt": "2022-02-12T18:41:40Z",
+    "revenue": 22284
+  }, {
+    "graphic": "43-237-4745",
+    "customer": "Colgate",
+    "owner": "Erik Haapakoski",
+    "status": "New",
+    "createdAt": "2022-09-24T10:25:57Z",
+    "revenue": 35907
+  }, {
+    "graphic": "01-664-3058",
+    "customer": "Scholle IPN",
+    "owner": "Erik Haapakoski",
+    "status": "New",
+    "createdAt": "2022-06-06T23:34:21Z",
+    "revenue": 33559
+  }, {
+    "graphic": "60-646-1674",
+    "customer": "Colgate",
+    "owner": "Tim Rivers",
+    "status": "New",
+    "createdAt": "2022-01-08T15:02:40Z",
+    "revenue": 34232
+  }, {
+    "graphic": "33-378-1365",
+    "customer": "Kind Snacks",
+    "owner": "Sam Rabideau",
+    "status": "New",
+    "createdAt": "2022-01-25T16:14:59Z",
+    "revenue": 42058
+  }, {
+    "graphic": "00-050-2860",
+    "customer": "Pillsbury",
+    "owner": "Melinda Lacke",
+    "status": "Completed",
+    "createdAt": "2022-01-11T09:32:52Z",
+    "revenue": 29620
+  }, {
+    "graphic": "57-168-9406",
+    "customer": "Perdue",
+    "owner": "Aaron Johnson",
+    "status": "WIP",
+    "createdAt": "2022-07-23T01:31:24Z",
+    "revenue": 36481
+  }, {
+    "graphic": "98-046-7762",
+    "customer": "Scholle IPN",
+    "owner": "Sam Rabideau",
+    "status": "Completed",
+    "createdAt": "2022-11-30T01:57:33Z",
+    "revenue": 48246
+  }, {
+    "graphic": "61-909-6581",
+    "customer": "Kind Snacks",
+    "owner": "Tim Rivers",
+    "status": "Completed",
+    "createdAt": "2022-10-20T12:55:19Z",
+    "revenue": 42063
+  }, {
+    "graphic": "09-404-7570",
+    "customer": "Perdue",
+    "owner": "Alek Olson",
+    "status": "New",
+    "createdAt": "2022-07-24T10:33:54Z",
+    "revenue": 49604
+  }, {
+    "graphic": "41-830-5540",
+    "customer": "Hershey",
+    "owner": "Aaron Johnson",
+    "status": "Completed",
+    "createdAt": "2022-04-18T03:17:49Z",
+    "revenue": 41606
+  }, {
+    "graphic": "38-634-1762",
+    "customer": "Planters",
+    "owner": "Sam Rabideau",
+    "status": "New",
+    "createdAt": "2022-07-31T06:21:56Z",
+    "revenue": 49910
+  }, {
+    "graphic": "50-644-4343",
+    "customer": "Scholle IPN",
+    "owner": "Melinda Lacke",
+    "status": "WIP",
+    "createdAt": "2022-08-07T21:43:21Z",
+    "revenue": 32044
+  }, {
+    "graphic": "53-940-5217",
+    "customer": "Planters",
+    "owner": "Tim Rivers",
+    "status": "New",
+    "createdAt": "2022-11-25T18:09:20Z",
+    "revenue": 24932
+  }, {
+    "graphic": "24-812-1150",
+    "customer": "Colgate",
+    "owner": "Aaron Johnson",
+    "status": "New",
+    "createdAt": "2022-05-26T14:05:28Z",
+    "revenue": 27577
+  }, {
+    "graphic": "23-952-7469",
+    "customer": "Colgate",
+    "owner": "Aaron Johnson",
+    "status": "Completed",
+    "createdAt": "2022-04-27T14:30:21Z",
+    "revenue": 46661
+  }, {
+    "graphic": "35-619-1734",
+    "customer": "Kind Snacks",
+    "owner": "Erik Haapakoski",
+    "status": "WIP",
+    "createdAt": "2022-12-28T14:14:54Z",
+    "revenue": 20289
+  }, {
+    "graphic": "65-400-2564",
+    "customer": "Nestle Coffee",
+    "owner": "Jenny Haas",
+    "status": "New",
+    "createdAt": "2022-02-04T08:15:00Z",
+    "revenue": 49823
+  }, {
+    "graphic": "21-254-5960",
+    "customer": "Colgate",
+    "owner": "Melinda Lacke",
+    "status": "WIP",
+    "createdAt": "2022-05-24T13:39:09Z",
+    "revenue": 38790
+  }, {
+    "graphic": "26-200-0558",
+    "customer": "Kind Snacks",
+    "owner": "Jenny Haas",
+    "status": "WIP",
+    "createdAt": "2022-01-11T03:12:59Z",
+    "revenue": 44289
+  }, {
+    "graphic": "11-563-7291",
+    "customer": "Pringles",
+    "owner": "Tim Rivers",
+    "status": "WIP",
+    "createdAt": "2022-11-25T09:20:51Z",
+    "revenue": 26436
+  }, {
+    "graphic": "24-388-1961",
+    "customer": "Perdue",
+    "owner": "Tim Rivers",
+    "status": "New",
+    "createdAt": "2022-07-25T16:33:23Z",
+    "revenue": 42699
+  }, {
+    "graphic": "52-150-1712",
+    "customer": "Kind Snacks",
+    "owner": "Aaron Johnson",
+    "status": "Completed",
+    "createdAt": "2022-05-31T19:42:24Z",
+    "revenue": 46932
+  }, {
+    "graphic": "73-963-7858",
+    "customer": "Pringles",
+    "owner": "Tim Rivers",
+    "status": "Completed",
+    "createdAt": "2022-10-13T00:51:18Z",
+    "revenue": 42713
+  }, {
+    "graphic": "02-670-3765",
+    "customer": "Nestle Coffee",
+    "owner": "Alek Olson",
+    "status": "Completed",
+    "createdAt": "2022-03-16T01:52:45Z",
+    "revenue": 43595
+  }, {
+    "graphic": "27-392-1395",
+    "customer": "Hershey",
+    "owner": "Sam Rabideau",
+    "status": "New",
+    "createdAt": "2022-04-04T15:23:48Z",
+    "revenue": 24549
+  }, {
+    "graphic": "82-661-4394",
+    "customer": "Nestle Coffee",
+    "owner": "Alek Olson",
+    "status": "New",
+    "createdAt": "2022-12-10T08:11:41Z",
+    "revenue": 45260
+  }, {
+    "graphic": "61-998-6235",
+    "customer": "Perdue",
+    "owner": "Jenny Haas",
+    "status": "New",
+    "createdAt": "2022-03-13T13:18:25Z",
+    "revenue": 20237
+  }, {
+    "graphic": "30-940-0996",
+    "customer": "Perdue",
+    "owner": "Jenny Haas",
+    "status": "WIP",
+    "createdAt": "2022-08-04T23:27:32Z",
+    "revenue": 38996
+  }, {
+    "graphic": "07-191-6729",
+    "customer": "Nestle Coffee",
+    "owner": "Melinda Lacke",
+    "status": "New",
+    "createdAt": "2022-11-05T05:40:55Z",
+    "revenue": 26015
+  }, {
+    "graphic": "29-617-7413",
+    "customer": "Kind Snacks",
+    "owner": "Sam Rabideau",
+    "status": "New",
+    "createdAt": "2022-04-29T05:14:32Z",
+    "revenue": 43397
+  }, {
+    "graphic": "04-980-0878",
+    "customer": "Colgate",
+    "owner": "Sam Rabideau",
+    "status": "Completed",
+    "createdAt": "2022-07-20T10:54:24Z",
+    "revenue": 48784
+  }, {
+    "graphic": "92-294-5963",
+    "customer": "Planters",
+    "owner": "Melinda Lacke",
+    "status": "Completed",
+    "createdAt": "2022-01-16T02:56:53Z",
+    "revenue": 35329
+  }, {
+    "graphic": "03-394-6210",
+    "customer": "Nestle Coffee",
+    "owner": "Melinda Lacke",
+    "status": "New",
+    "createdAt": "2022-04-09T03:53:39Z",
+    "revenue": 21010
+  }, {
+    "graphic": "89-628-6327",
+    "customer": "Perdue",
+    "owner": "Jenny Haas",
+    "status": "Completed",
+    "createdAt": "2022-11-10T04:46:15Z",
+    "revenue": 24981
+  }, {
+    "graphic": "93-352-1623",
+    "customer": "Colgate",
+    "owner": "Tim Rivers",
+    "status": "Completed",
+    "createdAt": "2022-07-21T01:15:43Z",
+    "revenue": 41670
+  }, {
+    "graphic": "14-662-5580",
+    "customer": "Pillsbury",
+    "owner": "Sam Rabideau",
+    "status": "Completed",
+    "createdAt": "2022-02-03T00:23:57Z",
+    "revenue": 27516
+  }, {
+    "graphic": "80-882-8280",
+    "customer": "Pillsbury",
+    "owner": "Aaron Johnson",
+    "status": "WIP",
+    "createdAt": "2023-01-01T05:05:01Z",
+    "revenue": 34309
+  }, {
+    "graphic": "19-829-1947",
+    "customer": "Pillsbury",
+    "owner": "Aaron Johnson",
+    "status": "New",
+    "createdAt": "2022-09-16T12:03:14Z",
+    "revenue": 40037
+  }, {
+    "graphic": "57-696-0785",
+    "customer": "Perdue",
+    "owner": "Alek Olson",
+    "status": "New",
+    "createdAt": "2022-11-04T02:43:24Z",
+    "revenue": 22354
+  }, {
+    "graphic": "69-853-7692",
+    "customer": "Pringles",
+    "owner": "Jenny Haas",
+    "status": "WIP",
+    "createdAt": "2022-01-21T19:35:31Z",
+    "revenue": 29648
+  }, {
+    "graphic": "76-429-6357",
+    "customer": "Pringles",
+    "owner": "Melinda Lacke",
+    "status": "New",
+    "createdAt": "2022-03-23T02:42:39Z",
+    "revenue": 45344
+  }, {
+    "graphic": "27-589-3433",
+    "customer": "Planters",
+    "owner": "Aaron Johnson",
+    "status": "WIP",
+    "createdAt": "2022-08-01T12:33:47Z",
+    "revenue": 21545
+  }, {
+    "graphic": "81-429-6688",
+    "customer": "Planters",
+    "owner": "Melinda Lacke",
+    "status": "New",
+    "createdAt": "2022-06-25T02:50:41Z",
+    "revenue": 43325
+  }, {
+    "graphic": "19-929-3163",
+    "customer": "Kind Snacks",
+    "owner": "Sam Rabideau",
+    "status": "New",
+    "createdAt": "2022-01-11T03:54:12Z",
+    "revenue": 20638
+  }, {
+    "graphic": "60-795-5711",
+    "customer": "Pringles",
+    "owner": "Sam Rabideau",
+    "status": "WIP",
+    "createdAt": "2022-05-02T23:38:35Z",
+    "revenue": 48938
+  }, {
+    "graphic": "30-193-8181",
+    "customer": "Scholle IPN",
+    "owner": "Sam Rabideau",
+    "status": "Completed",
+    "createdAt": "2022-09-20T14:40:43Z",
+    "revenue": 49140
+  }, {
+    "graphic": "66-136-6375",
+    "customer": "Colgate",
+    "owner": "Tim Rivers",
+    "status": "WIP",
+    "createdAt": "2022-07-15T03:51:50Z",
+    "revenue": 47773
+  }, {
+    "graphic": "06-005-1353",
+    "customer": "Colgate",
+    "owner": "Alek Olson",
+    "status": "New",
+    "createdAt": "2022-11-18T09:17:11Z",
+    "revenue": 32718
+  }, {
+    "graphic": "84-158-3967",
+    "customer": "Pillsbury",
+    "owner": "Sam Rabideau",
+    "status": "New",
+    "createdAt": "2022-06-14T22:35:21Z",
+    "revenue": 40889
+  }, {
+    "graphic": "20-260-4434",
+    "customer": "Perdue",
+    "owner": "Sam Rabideau",
+    "status": "WIP",
+    "createdAt": "2022-12-29T17:11:04Z",
+    "revenue": 41077
+  }, {
+    "graphic": "26-601-9202",
+    "customer": "Planters",
+    "owner": "Jenny Haas",
+    "status": "WIP",
+    "createdAt": "2022-01-21T01:19:12Z",
+    "revenue": 41895
+  }, {
+    "graphic": "75-008-8351",
+    "customer": "Pringles",
+    "owner": "Jenny Haas",
+    "status": "New",
+    "createdAt": "2022-09-17T17:53:27Z",
+    "revenue": 28062
+  }, {
+    "graphic": "75-029-1955",
+    "customer": "Nestle Coffee",
+    "owner": "Alek Olson",
+    "status": "WIP",
+    "createdAt": "2022-03-16T01:09:25Z",
+    "revenue": 33215
+  }, {
+    "graphic": "77-370-3515",
+    "customer": "Planters",
+    "owner": "Melinda Lacke",
+    "status": "New",
+    "createdAt": "2022-12-10T03:52:27Z",
+    "revenue": 42612
+  }, {
+    "graphic": "97-349-1444",
+    "customer": "Nestle Coffee",
+    "owner": "Aaron Johnson",
+    "status": "Completed",
+    "createdAt": "2022-12-13T11:52:04Z",
+    "revenue": 23871
+  }, {
+    "graphic": "51-654-6618",
+    "customer": "Pillsbury",
+    "owner": "Alek Olson",
+    "status": "Completed",
+    "createdAt": "2022-11-29T18:12:05Z",
+    "revenue": 20913
+  }, {
+    "graphic": "50-406-9719",
+    "customer": "Kind Snacks",
+    "owner": "Sam Rabideau",
+    "status": "Completed",
+    "createdAt": "2022-02-24T11:53:40Z",
+    "revenue": 25846
+  }, {
+    "graphic": "61-981-9864",
+    "customer": "Perdue",
+    "owner": "Alek Olson",
+    "status": "Completed",
+    "createdAt": "2022-03-21T06:04:16Z",
+    "revenue": 34668
+  }, {
+    "graphic": "94-719-4835",
+    "customer": "Scholle IPN",
+    "owner": "Sam Rabideau",
+    "status": "WIP",
+    "createdAt": "2022-05-10T21:53:19Z",
+    "revenue": 23960
+  }, {
+    "graphic": "14-316-4491",
+    "customer": "Planters",
+    "owner": "Jenny Haas",
+    "status": "WIP",
+    "createdAt": "2022-01-27T20:48:00Z",
+    "revenue": 21263
+  }, {
+    "graphic": "30-166-5492",
+    "customer": "Perdue",
+    "owner": "Jenny Haas",
+    "status": "New",
+    "createdAt": "2022-10-26T21:37:14Z",
+    "revenue": 34363
+  }, {
+    "graphic": "37-353-3588",
+    "customer": "Nestle Coffee",
+    "owner": "Sam Rabideau",
+    "status": "Completed",
+    "createdAt": "2022-01-05T09:46:03Z",
+    "revenue": 21492
+  }, {
+    "graphic": "98-366-7894",
+    "customer": "Pringles",
+    "owner": "Sam Rabideau",
+    "status": "Completed",
+    "createdAt": "2022-04-30T02:20:16Z",
+    "revenue": 40056
+  }, {
+    "graphic": "69-453-5552",
+    "customer": "Planters",
+    "owner": "Alek Olson",
+    "status": "New",
+    "createdAt": "2022-02-22T20:45:44Z",
+    "revenue": 37742
+  }, {
+    "graphic": "31-882-4663",
+    "customer": "Nestle Coffee",
+    "owner": "Erik Haapakoski",
+    "status": "Completed",
+    "createdAt": "2022-05-27T21:05:34Z",
+    "revenue": 25672
+  }, {
+    "graphic": "12-446-8365",
+    "customer": "Perdue",
+    "owner": "Erik Haapakoski",
+    "status": "WIP",
+    "createdAt": "2022-05-18T02:29:04Z",
+    "revenue": 38403
+  }, {
+    "graphic": "73-687-3928",
+    "customer": "Pringles",
+    "owner": "Sam Rabideau",
+    "status": "New",
+    "createdAt": "2022-11-27T18:20:28Z",
+    "revenue": 35916
+  }, {
+    "graphic": "33-278-8945",
+    "customer": "Kind Snacks",
+    "owner": "Melinda Lacke",
+    "status": "Completed",
+    "createdAt": "2022-10-09T12:09:51Z",
+    "revenue": 41660
+  }, {
+    "graphic": "25-371-5480",
+    "customer": "Colgate",
+    "owner": "Alek Olson",
+    "status": "Completed",
+    "createdAt": "2022-11-03T17:34:12Z",
+    "revenue": 40845
+  }, {
+    "graphic": "64-756-3275",
+    "customer": "Perdue",
+    "owner": "Alek Olson",
+    "status": "Completed",
+    "createdAt": "2022-12-05T09:47:55Z",
+    "revenue": 45191
+  }, {
+    "graphic": "81-538-0845",
+    "customer": "Planters",
+    "owner": "Jenny Haas",
+    "status": "New",
+    "createdAt": "2022-08-01T08:13:14Z",
+    "revenue": 32487
+  }, {
+    "graphic": "58-614-9314",
+    "customer": "Nestle Coffee",
+    "owner": "Melinda Lacke",
+    "status": "New",
+    "createdAt": "2022-01-11T10:35:05Z",
+    "revenue": 36658
+  }, {
+    "graphic": "56-854-4073",
+    "customer": "Nestle Coffee",
+    "owner": "Erik Haapakoski",
+    "status": "WIP",
+    "createdAt": "2022-12-28T13:08:47Z",
+    "revenue": 45782
+  }]
